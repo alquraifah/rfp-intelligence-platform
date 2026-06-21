@@ -1,0 +1,10 @@
+pdfplumber
+python-docx
+python-pptx
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+openai
+pandas
