@@ -156,35 +156,17 @@ The platform combines Retrieval-Augmented Generation (RAG), Large Language Model
 ```text
 
 rfp-intelligence/
-
-
-
 ├── api.py
-
 ├── requirements.txt
-
 ├── README.md
 
-
-
 ├── src/
-
 │   ├── ingest.py
-
 │   ├── rag_engine.py
-
 │   └── ai_analyzer.py
 
-
-
 ├── data/
-
-
-
 ├── faiss_index/
-
-
-
 └── assets/
 
 ```
